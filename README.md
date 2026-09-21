@@ -1,6 +1,6 @@
 # Hi, I'm Rosh Raval 👋
 
-I am a Senior Data Scientist with 6 years of experience specializing in building robust machine learning architecture, advanced feature engineering, and production-ready predictive pipelines. All the models I have built are in production and I thrive on bringing innovative, unique problem-solving solutions to complex data challenges.
+I am a Senior Data Scientist with 6 years of experience specializing in building robust machine learning architecture, advanced feature engineering, and end-to-end production-ready predictive pipelines. All the models I have built are in production and I thrive on bringing innovative, unique problem-solving solutions to complex data challenges.
 
 ### 🛠️ Technical Toolkit
 * **Languages:** Python, SQL, R
